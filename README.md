@@ -1,1 +1,1 @@
-<h1>Todoapp usign React.js and Typescript</h1>
+<h1>Todoapp using React.js and Typescript</h1>
